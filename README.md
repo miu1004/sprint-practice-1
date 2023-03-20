@@ -9,10 +9,10 @@
 ##
 
 
--Installation
--How to start
--Features
--Tech Stack
+- Installation
+- How to start
+- Features
+- Tech Stack
 
 ### Installation
 
